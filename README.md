@@ -33,3 +33,13 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 - [ ] **Project 16: Threaded Reverse Shell Payload** | *Status: Planned*
 - [ ] **Project 17: Concurrent Go C2 Listener** | *Status: Planned*
 - [ ] **Project 18: Encrypted Custom Data Stager** | *Status: Planned*
+
+---
+
+## Legal & Educational Disclaimer
+
+The code, techniques, and documentation provided across this entire portfolio (including all sub-repositories and linked projects) are created strictly for educational, research, and defensive security optimization purposes. 
+
+* **Authorized Testing Only:** This software must only be executed in controlled lab environments or on systems where you have explicit, written authorization from the owner.
+* **No Liability:** The author assumes no liability or responsibility for any misuse, damage, or illegal activity caused by the information or code contained within these repositories.
+* **Compliance:** Users are entirely responsible for ensuring their actions comply with all local, national, and international laws regarding cybersecurity and computer fraud.

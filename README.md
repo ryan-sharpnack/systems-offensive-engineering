@@ -2,7 +2,7 @@
 
 Welcome to my central portfolio. This repository documents my structured, multi-phase journey into low-level computer systems engineering, operating system internals, and security tooling development.
 
-## 🗺️ Project Index & Progress Tracking
+## Project Index & Progress Tracking
 
 ### Phase 1: Hardware, Architecture, & Assembly
 - [ ] **Project 1: Base64 Encoder/Decoder** | Written in pure x86_64 Assembly. *(Link coming soon)*

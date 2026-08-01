@@ -7,7 +7,7 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 ### Phase 1: Hardware, Architecture, & Assembly
 *   [ ] **Project 1: Base64 Encoder/Decoder** | https://github.com/ryan-sharpnack/asm-base64-codec
 *   [ ] **Project 2: 4-Bit ALU Simulator** | https://github.com/ryan-sharpnack/alu-4bit-simulator
-*   [ ] **Project 3: CPU Register State Dumper** | *(Link coming soon)*
+*   [ ] **Project 3: CPU Register State Dumper** | https://github.com/ryan-sharpnack/asm-register-dumper
 
 ### Phase 2: Core Systems Engineering & Networking
 *   [ ] **Project 4: Hex Dump Utility** | *(Link coming soon)*

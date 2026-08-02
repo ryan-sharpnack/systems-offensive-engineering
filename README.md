@@ -49,7 +49,7 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 *   [ ] **Project 26: Cloud-Native Container Escape & Service Mesh Poisoning Range** | Status: Planned
 *   [ ] **Project 27: Offensive Observability & Detection Engineering Inversion** | Status: Planned
 *   [ ] **Project 28: Automated CI/CD Pipeline Attack & Supply Chain Range** | Status: Planned
-*   [ ] **Project 29: Automated Active Directory Misconfiguration Graph Scanner | Status: Planned
+*   [ ] **Project 29: Automated Active Directory Misconfiguration Graph Scanner** | Status: Planned
 
 ### Phase 10: Telemetry, Invariants, & Forensics
 *   [ ] **Project 30: Kernel-Level System Tracer utilizing Linux eBPF Sandboxing** | Status: Planned

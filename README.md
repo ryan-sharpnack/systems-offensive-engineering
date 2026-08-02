@@ -52,7 +52,7 @@ Welcome to my central portfolio. This repository documents a structured, multi-p
 
 ### Phase 2: Core Systems Engineering & Networking
 *   [x] **Project 4: Hex Dump Utility** | https://github.com/ryan-sharpnack/hex-dump-utility
-*   [ ] **Project 5: Raw TCP Port Scanner** | *(Link coming soon)*
+*   [ ] **Project 5: Raw TCP Port Scanner** | https://github.com/ryan-sharpnack/raw-tcp-port-scanner
 *   [ ] **Project 6: Custom malloc Allocator** | *(Link coming soon)*
 
 ### Phase 3: Operating System Mastery

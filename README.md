@@ -1,6 +1,47 @@
-# Low-Level Systems & Offensive Engineering Roadmap
+# The Architecture of Progression: A Constraint-Driven Engineering Roadmap
 
-Welcome to my central portfolio. This repository documents my structured, multi-phase journey into low-level computer systems engineering, operating system internals, security tooling development, and adversarial machine learning.
+Welcome to my central portfolio. This repository documents a structured, multi-phase engineering journey spanning from the metal to the cosmos. What begins as deep exploration into low-level systems programming, operating system internals, and offensive security tooling evolves systematically into planet-scale distributed networks, adversarial machine learning, and space-edge communication architectures. Designed to demonstrate elite, constraint-driven engineering and uncompromising software reliability, this comprehensive curriculum tracks the development of highly optimized infrastructure capable of delivering profound societal value—whether securing critical systems on Earth or routing data through the stars.
+
+---
+
+## Engineering Pillars & Core Competencies
+
+| Systems & Kernel | Distributed & Network Scale | Space-Edge & Resiliency | Security & Intelligence |
+| :--- | :--- | :--- | :--- |
+| • C / Rust / Assembly | • P2P Architecture (DHT) | • Delay-Tolerant Net. (DTN) | • Offensive Tooling Dev |
+| • OS Internals / Drivers | • Stateless Network Scanning | • CubeSat Flight Software | • Binary Exploitation |
+| • Memory Management | • Custom Edge Routing (BGP) | • Wasm Runtime Isolation | • Process Injection |
+| • Constraint Optimization | • Zero-Copy Data Ingestion | • Astrodynamics Cryptography | • Adversarial ML / Evasion |
+| • Linux Kernel Modules | • Ephemeral Cloud Workers | • Space-Grade Protocols | • Sub-System Auditing |
+
+---
+
+## Repository Architecture
+
+```text
+├── 01_The_Core/                      # (Phases 1-3) Local Systems & Kernel Architecture
+│   ├── Phase_01_Hardware_Assembly/
+│   ├── Phase_02_Systems_Networking/
+│   └── Phase_03_Operating_Systems/
+│
+├── 02_The_Shell/                     # (Phases 4-7) Security Engineering & Malware Primitives
+│   ├── Phase_04_Telemetry_RE/
+│   ├── Phase_05_Adversary_Simulation/
+│   ├── Phase_06_Infrastructure_Automation/
+│   └── Phase_07_AI_Offensive_Tooling/
+│
+├── 03_The_Mesh/                      # (Phases 8-10) Adversarial AI & Enterprise Orchestration
+│   ├── Phase_08_Adversarial_ML/
+│   ├── Phase_09_Enterprise_DevSecOps/
+│   └── Phase_10_Telemetry_Forensics/
+│
+└── 04_The_Global_Cosmic_Fabric/      # (Phases 11-13) Internet Systems & Space Communications
+    ├── Phase_11_Distributed_Systems/
+    ├── Phase_12_Planetary_Operations/
+    └── Phase_13_Orbital_Infrastructure/
+```
+
+---
 
 ## Project Index & Progress Tracking
 
@@ -62,7 +103,7 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 *   [ ] **Project 35: High-Performance, Zero-Copy Log Aggregator for Distributed Forensics** | Status: Planned
 *   [ ] **Project 36: BGP Hijacking & Internet-Scale Route Leak Simulator** | Status: Planned
 *   [ ] **Project 37: Web3/Blockchain-Based Bulletproof Stager Infrastructure** | Status: Planned
-*   [ ] **Project 38: Distributed Byzantine Fault-Tolerant (BFT) Secret Sharing Network
+*   [ ] **Project 38: Distributed Byzantine Fault-Tolerant (BFT) Secret Sharing Network** | Status: Planned
 
 ### Phase 12: Planetary-Scale Operations, Autonomous Swarms, & Edge Cryptanalysis
 *   [ ] **Project 39: Mass-Asymmetric Internet Scanner & Vulnerability Correlator** | Status: Planned

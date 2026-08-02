@@ -51,7 +51,7 @@ Welcome to my central portfolio. This repository documents a structured, multi-p
 *   [x] **Project 3: CPU Register State Dumper** | https://github.com/ryan-sharpnack/asm-register-dumper
 
 ### Phase 2: Core Systems Engineering & Networking
-*   [ ] **Project 4: Hex Dump Utility** | *(Link coming soon)*
+*   [ ] **Project 4: Hex Dump Utility** | https://github.com/ryan-sharpnack/hex-dump-utility
 *   [ ] **Project 5: Raw TCP Port Scanner** | *(Link coming soon)*
 *   [ ] **Project 6: Custom malloc Allocator** | *(Link coming soon)*
 

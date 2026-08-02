@@ -57,6 +57,25 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 *   [ ] **Project 32: Behavioral Invariant Detection Engine (W\wedgeX Violation Tracker)** | Status: Planned
 *   [ ] **Project 33: Direct Kernel Object Manipulation (DKOM) Volatile Memory Auditor** | Status: Planned
 
+### Phase 11: Distributed Systems, Edge Protocols, & Internet-Scale Command Infrastructure
+*   [ ] **Project 34: Decentralized, P2P Command & Control (C2) Mesh Over Nat** | Status: Planned
+*   [ ] **Project 35: High-Performance, Zero-Copy Log Aggregator for Distributed Forensics** | Status: Planned
+*   [ ] **Project 36: BGP Hijacking & Internet-Scale Route Leak Simulator** | Status: Planned
+*   [ ] **Project 37: Web3/Blockchain-Based Bulletproof Stager Infrastructure** | Status: Planned
+*   [ ] **Project 38: Distributed Byzantine Fault-Tolerant (BFT) Secret Sharing Network
+
+### Phase 12: Planetary-Scale Operations, Autonomous Swarms, & Edge Cryptanalysis
+*   [ ] **Project 39: Mass-Asymmetric Internet Scanner & Vulnerability Correlator** | Status: Planned
+*   [ ] **Project 40: Autonomous C2 Swarm with Ephemeral Cloud-Edge Workers** | Status: Planned
+*   [ ] **Project 41: Distributed Timing Attack & Side-Channel Network Analysis** | Status: Planned
+*   [ ] **Project 42: Deep-Web / Darknet Metadata Harvester & Graph Link Analyzer** | Status: Planned
+*   [ ] **Project 43: Autonomous Internet Censorship Circumvention Engine** | Status: Planned
+
+### Phase 13: Orbital Mesh Infrastructures, Interplanetary Protocols, & Space-Edge Resiliency
+*   [ ] **Project 44: Delay-Tolerant Networking (DTN) Bundle Protocol (RFC 9171) Router** | Status: Planned
+*   [ ] **Project 45: Zero-Trust CubeSat Flight Software Runtime via WebAssembly (Wasm)** | Status: Planned
+*   [ ] **Project 46: Ephemeris-Driven Kinetic Cryptographic Key Exchange** | Status: Planned
+
 ---
 
 ## Legal & Educational Disclaimer

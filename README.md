@@ -44,6 +44,19 @@ Welcome to my central portfolio. This repository documents my structured, multi-
 *   [ ] **Project 23: Live Process Memory Model Inversion Attack** | Status: Planned
 *   [ ] **Project 24: Direct-on-Disk ML Model Poisoning Script** | Status: Planned
 
+### Phase 9: Enterprise DevSecOps, Cloud Evasion, & Infrastructure Exploitation
+*   [ ] **Project 25: GitOps Ransomware & Infrastructure Destroyer Simulation Pipeline** | Status: Planned
+*   [ ] **Project 26: Cloud-Native Container Escape & Service Mesh Poisoning Range** | Status: Planned
+*   [ ] **Project 27: Offensive Observability & Detection Engineering Inversion** | Status: Planned
+*   [ ] **Project 28: Automated CI/CD Pipeline Attack & Supply Chain Range** | Status: Planned
+*   [ ] **Project 29: Automated Active Directory Misconfiguration Graph Scanner | Status: Planned
+
+### Phase 10: Telemetry, Invariants, & Forensics
+*   [ ] **Project 30: Kernel-Level System Tracer utilizing Linux eBPF Sandboxing** | Status: Planned
+*   [ ] **Project 31: Low-Level Anomalous Flow Monitor via Windows ETW Streams** | Status: Planned
+*   [ ] **Project 32: Behavioral Invariant Detection Engine (W\wedgeX Violation Tracker)** | Status: Planned
+*   [ ] **Project 33: Direct Kernel Object Manipulation (DKOM) Volatile Memory Auditor** | Status: Planned
+
 ---
 
 ## Legal & Educational Disclaimer

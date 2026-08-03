@@ -16,6 +16,14 @@ Welcome to my central portfolio. This repository documents a structured, multi-p
 
 ---
 
+## The Hardware-Constrained Engineering Principle
+This entire infrastructure framework is intentionally engineered, benchmarked, and validated on a single **Dell OptiPlex 3040 (Intel i5 CPU, 16GB RAM, 500GB HDD)** purchased as an unprovisioned, non-bootable bare-metal unit and independently restored via custom BIOS/firmware configuration and low-level storage provisioning.
+
+* **The Philosophy:** Global scale should not require infinite cloud budgets. If an adversarial nation-state threat actor or independent researcher can orchestrate sophisticated attacks using a $100 consumer-grade workstation, defensive engineers must learn to audit, detect, and mitigate those threats with the exact same resource efficiency.
+* **The Engineering Constraint:** By utilizing zero-copy data ingestion pipelines, lightweight OS containerization topologies (LXC, Containerlab), and low-footprint custom runtimes, this framework achieves planetary threat simulation and space-edge resiliency testing without saturating host memory or causing disk I/O bottlenecks. 
+
+---
+
 ## Repository Architecture
 
 ```text

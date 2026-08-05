@@ -1,8 +1,9 @@
----
-Document ID: SOP-SEC-LAB-01
-Version: 1.0.0 (Baseline Sandbox)
-Last Updated: August 2026
-Status: Active / Approved
+# Standard Operating Procedure (SOP): Establishing a Software-Defined Air-Gapped Sandbox for Low-Level Protocol & Kernel Research
+
+**Document ID:** SOP-SEC-LAB-01  
+**Classification:** Public / Defensive Research Community  
+**Objective:** To provision a modular, hyper-isolated, and resilient testing environment utilizing KVM/QEMU to safely simulate catastrophic network and kernel-level vulnerabilities without risking host stability or network leakage.
+
 ---
 
 ## SECTION 1: ARCHITECTURAL OVERVIEW

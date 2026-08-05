@@ -51,6 +51,13 @@ This entire infrastructure framework is intentionally engineered, benchmarked, a
 
 ---
 
+### The Laboratory
+Before running any scripts in the `simulations/` directory, you must establish a secure, host-isolated workspace to prevent local kernel corruption or network leakage. 
+* [ ] Review the Architecture Blueprint in [homelab/README.md](./homelab/)
+* [ ] Provision the Sandbox via [SOP-SEC-LAB-01](./homelab/docs/SOP-SEC-LAB-01.md)
+
+---
+
 ## Project Index & Progress Tracking
 
 ### Phase 1: Hardware, Architecture, & Assembly

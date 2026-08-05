@@ -5,7 +5,7 @@ Last Updated: August 2026
 Status: Active / Approved
 ---
 
-## ─── [ SECTION 1: ARCHITECTURAL OVERVIEW ] ───
+## SECTION 1: ARCHITECTURAL OVERVIEW
 
 Standard containerization models (e.g., Docker) fail to mitigate kernel-level exploitation because they share the underlying host operating system kernel. Triggering a kernel panic or memory corruption vulnerability inside a standard container will destabilize the entire physical machine.
 
@@ -29,7 +29,7 @@ Ubuntu VM (Raw Packets)                 Rocky Linux (Router)                Nest
 
 ---
 
-## ─── [ SECTION 2: NETWORK ISOLATION PROTOCOLS ] ───
+## SECTION 2: NETWORK ISOLATION PROTOCOLS
 
 ### Step 1: Purging the Default NAT Bridge
 By default, KVM initializes a shared network bridge (`virbr0`) that routes virtual machines to the public internet. This interface must be systematically disabled to prevent accidental outbound exploit traffic.
@@ -73,7 +73,7 @@ sudo virsh net-autostart isolated-airgap
 
 ---
 
-## ─── [ SECTION 3: STORAGE MODULARITY & RECOVERY ] ───
+## SECTION 3: STORAGE MODULARITY & RECOVERY
 
 To maintain high testing momentum, researchers must assume that target systems will continuously be destroyed or corrupted by experimental code. Utilizing QCOW2 backing chains removes the overhead of repeatedly reinstalling operating systems.
 
@@ -110,7 +110,7 @@ virsh start target-node-01
 
 ---
 
-## ─── [ SECTION 4: POST-DEPLOYMENT VERIFICATION ] ───
+## SECTION 4: POST-DEPLOYMENT VERIFICATION
 
 Before executing any custom packet-crafting or state-exhaustion scripts, researchers must validate containment via a dual-point audit:
 

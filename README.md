@@ -66,7 +66,7 @@ This entire infrastructure framework is intentionally engineered, benchmarked, a
 ### Phase 3: Operating System Mastery
 *   [x] **Project 7: Windows PE Header Parser** | https://github.com/ryan-sharpnack/pe-header-parser
 *   [x] **Project 8: Linux ELF Symbol Analyzer** | https://github.com/ryan-sharpnack/elf-dependency-analyzer
-*   [ ] **Project 9: Linux strace Prototype** | https://github.com/ryan-sharpnack/ptrace-syscall-tracer
+*   [x] **Project 9: Linux strace Prototype** | https://github.com/ryan-sharpnack/ptrace-syscall-tracer
 
 ### Phase 4: Telemetry & Defensive Reverse Engineering
 *   [ ] **Project 10: Process Memory Scanner** | Status: Planned

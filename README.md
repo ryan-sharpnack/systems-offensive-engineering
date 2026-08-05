@@ -136,8 +136,16 @@ Before running any scripts in the `simulations/` directory, you must establish a
 
 ## Legal & Educational Disclaimer
 
-The code, techniques, and documentation provided across this entire portfolio (including all sub-repositories, artificial intelligence models, and linked projects) are created strictly for educational, research, and defensive security optimization purposes.
+The code, technical methodologies, architecture blueprints, and documentation provided across this entire portfolio (including all sub-directories, automation scripts, and associated experimental pipelines) are created strictly for educational, defensive security optimization, and authorized academic research purposes.
 
-*   **Authorized Testing Only:** This software and associated experimental pipelines must only be executed in controlled lab environments or on systems where you have explicit, written authorization from the owner.
-*   **No Liability:** The author assumes no liability or responsibility for any misuse, damage, systemic disruption, or illegal activity caused by the information, code, or model architectures contained within these repositories.
-*   **Compliance:** Users are entirely responsible for ensuring their actions comply with all local, national, and international laws regarding cybersecurity, computer fraud, and responsible artificial intelligence research.
+### 1. Authorized Testing & Containment Constraints
+* **Isolated Testing Mandate:** Software, scripts, and packet-crafting utilities contained herein are designed to interact with low-level kernel stacks and network protocols. They are built to test edge-cases that may cause immediate system instability or unrecoverable kernel panics. Execution must be confined strictly to host-isolated, software-defined air-gapped laboratory environments (e.g., as outlined in SOP-SEC-LAB-01).
+* **Explicit Authorization Required:** Under no circumstances should any utility or methodology within this repository be deployed against systems, networks, or infrastructure without explicit, prior written authorization from the verified infrastructure owner.
+
+### 2. Limitation of Liability
+* **No Warranty or Liability:** This software and information are provided "as-is" without warranty of any kind. The author assumes no liability, responsibility, or legal accountability for any misuse, unintended systemic disruption, data corruption, hardware damage, or illegal activity executed by third parties utilizing these materials. 
+* **The "Domino Effect" Waiver:** Due to the complex architectural nature of cross-protocol research simulations (such as transport-to-routing layer interactions), the user assumes all risks regarding cascading failures or state-desynchronization anomalies within their testing environments.
+
+### 3. Regulatory Compliance & Ethical Research
+* **Legal Compliance:** Users are entirely responsible for ensuring their actions comply with all local, national, and international statutes regarding computer fraud, data privacy, and telecommunications security (e.g., the US Computer Fraud and Abuse Act, or regional equivalents).
+* **Commitment to Responsible Disclosure:** The author is a dedicated advocate for global internet security and operates strictly under established Responsible Vulnerability Disclosure frameworks. Any zero-day vulnerabilities or systemic flaws discovered through the methodologies in this lab are reported directly to the affected vendors, maintainers, or appropriate coordination centers (e.g., CERT/CC, CISA) prior to any public architectural documentation.

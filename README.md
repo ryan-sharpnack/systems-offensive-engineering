@@ -64,7 +64,7 @@ This entire infrastructure framework is intentionally engineered, benchmarked, a
 *   [x] **Project 6: Custom malloc Allocator** | https://github.com/ryan-sharpnack/custom-malloc-allocator
 
 ### Phase 3: Operating System Mastery
-*   [ ] **Project 7: Windows PE Header Parser** https://github.com/ryan-sharpnack/pe-header-parser
+*   [ ] **Project 7: Windows PE Header Parser** | https://github.com/ryan-sharpnack/pe-header-parser
 *   [ ] **Project 8: Linux ELF Symbol Analyzer** | Status: Planned
 *   [ ] **Project 9: Linux strace Prototype** | Status: Planned
 
